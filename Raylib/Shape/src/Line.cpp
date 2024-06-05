@@ -1,4 +1,4 @@
-#include <iostream>
+/*
 #include <raylib.h>
 
 int WIDTH = 800;
@@ -23,3 +23,4 @@ int main() {
   CloseWindow();
   return 0;
 };
+*/
