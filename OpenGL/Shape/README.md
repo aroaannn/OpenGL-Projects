@@ -5,3 +5,7 @@
 - Triangle (GLFW).exe:
 
   ![Triangle](https://github.com/hxajk/30mins-project/assets/141657503/a3412ab2-1027-425a-ac36-35a7a126ee95)
+
+- Square-Animate (GLFW).exe:
+
+  ![Square](https://github.com/hxajk/30mins-project/assets/141657503/5eaa5fcf-44c1-43ad-b28c-c3c98a02f2a5)
