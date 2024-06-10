@@ -5,3 +5,4 @@
 | Square - [Animated].exe        | `GLFW`   |  17:26 - [7/6/2024] |                                                                               |                                                                                            |
 | Circle - [Animated].exe        | `GLFW`   |  17:38 - [8/6/2024] |                                                                               |                                                                                            |
 | Triangle - [Backtracking].exe  | `GLFW`   |  18:51 - [9/6/2024] |                                                                               |                                                                                            |
+| Pyramid - [Animated].exe       | `GLFW`   |  13:57 - [10/6/2024] |                                                                               |                                                                                            |
