@@ -1,8 +1,9 @@
-# 30 mins 
+<h1 align="center"> ⚙ Project Holder </h1>
 
-- The thing that i will do daily, so that i aint waste my time 
+- The thing that i will do 30 mins daily, so that i aint waste my time 
 
-- 📚 Project Structure:
+<h1 align="left"> 📂 Structure </h1>
+
 ```
  📂 ~/30mins
  ├── 📂 <library>
@@ -15,4 +16,4 @@
  └──  🌑 Readme.md
 ```
 
-- ...
+<h1 align="left"> ✨ Features </h1>
