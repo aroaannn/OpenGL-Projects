@@ -7,4 +7,4 @@
 | Triangle - [Backtracking].exe  | `GLFW`   |  18:51 - [9/6/2024] |                                                                               |                                                                                            |
 | Pyramid - [Animated].exe       | `GLFW`   |  13:57 - [10/6/2024] |                                                                               |                                                                                            
 | Cuboid - [Animated].exe       | `GLFW`   |  16:38 - [11/6/2024] |                                                                               |                                                                                            |
-| Star.exe       | `GLFW`   |  16:38 - [11/6/2024] |                                                                               |                                                                                            |
+| Star.exe       | `GLFW`   |  15:54 - [12/6/2024] |                                                                               |                                                                                            |
