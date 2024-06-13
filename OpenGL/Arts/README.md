@@ -1,0 +1,3 @@
+| Binary file                    | Library  | Date And Time       | [Source Folder](https://github.com/hxajk/30mins-project/tree/master/OpenGL/Arts/src) |[Image Folder](https://github.com/hxajk/30mins-project/tree/master/OpenGL/Arts/img)|
+|--------------------------------|----------|----------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|  Sinusoidal Waves.exe          | `GLFW`   |  14;23 - [13/6/2024] |                                                                                       |                                                                                            |
