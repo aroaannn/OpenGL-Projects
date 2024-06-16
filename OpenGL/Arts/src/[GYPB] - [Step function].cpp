@@ -1,3 +1,4 @@
+/*
 #include <fstream>
 #include <sstream>
 #include <string>
@@ -5,6 +6,40 @@
 #include <GLFW/glfw3.h>
 #include <glad/glad.h>
 
+
+-- base.vs 
+
+#version 330 core
+
+layout (location = 0) in vec2 _v_data;
+
+void main()
+{
+  gl_Position = vec4(_v_data,0.0f,1.0f);
+}
+
+
+-- base.fs
+
+#version 330 core
+
+out vec4 FragColor;
+
+uniform vec2 resolution; 
+
+void main()
+{
+  
+  vec2 position =  gl_FragCoord.xy / resolution.xy; //normalized
+
+  vec2 stepPos = step(vec2(0.2),position);
+  
+  vec3 color = vec3(stepPos,0.5);
+
+  FragColor = vec4(color, 1.0f);
+}
+
+--
 
 int W = 1000;
 int H = 1000;
@@ -158,3 +193,4 @@ int main()
   glfwTerminate();
   return 0;
 };
+*/
