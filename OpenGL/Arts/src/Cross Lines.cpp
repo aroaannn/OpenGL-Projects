@@ -1,3 +1,4 @@
+/*
 #include <fstream>
 #include <sstream>
 #include <string>
@@ -5,6 +6,42 @@
 #include <GLFW/glfw3.h>
 #include <glad/glad.h>
 
+
+-- base.vs 
+
+#version 330 core
+
+layout (location = 0) in vec2 _v_data;
+
+void main()
+{
+  gl_Position = vec4(_v_data,0.0f,1.0f);
+}
+
+-- base.fs
+
+#version 330 core
+
+out vec4 FragColor;
+
+uniform vec2 resolution; 
+
+void main()
+{
+  
+  vec2 uv =  gl_FragCoord.xy / resolution * 2 - 1; 
+
+    uv *= mat2(
+      0.2,sin(-0.2),
+     sin(0.2),0.2
+    ) ;
+
+    uv = 0.02 / uv;
+    
+ FragColor = vec4(uv,0, 1.0f);
+}
+
+-------------------------------------
 
 int W = 800;
 int H = 800;
@@ -152,6 +189,12 @@ int main()
     glfwPollEvents();
     glfwSwapBuffers(window);
   };
+
+  delete background;
+  glfwDestroyWindow(window);
+  glfwTerminate();
+  return 0;
+};*/ 
 
   delete background;
   glfwDestroyWindow(window);
