@@ -9,3 +9,5 @@
 |Colored  Fractal Circle.exe                  | `GLFW`   |  19:28 - [19/6/2024] |                                                                                       |                                                                              |
 |  Круг возврата.exe                          | `GLFW`   |  17:06 - [20/6/2024] |                                                                                       |                                                                              |
 |  Fractal Square.exe                         | `GLFW`   |  18:20 - [21/6/2024] |                                                                                       |                                                                              |
+|   Sun set.exe                               | `GLFW`   |  21:06 - [22/6/2024] |                                                                                       |                                                                              |
+
