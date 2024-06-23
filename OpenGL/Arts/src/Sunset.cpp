@@ -1,3 +1,4 @@
+/*
 #define GLFW_INCLUDE_NONE 
 #include <GLFW/glfw3.h>
 #include <glad/glad.h>
@@ -5,6 +6,42 @@
 #include <string>
 #include <fstream>
 
+-- base.vs
+
+#version 330 core
+
+layout (location = 0) in vec2 _v_data;
+
+void main()
+{
+  gl_Position = vec4(_v_data,0.0f,1.0f);
+}
+
+-- base.fs
+
+#version 330 core
+
+out vec4 FragColor;
+
+uniform vec2 resolution;
+
+void main()
+{
+  
+  vec2 uv =  gl_FragCoord.xy / resolution * 2 - 1; // normalized in range [-1,1]
+
+  vec3 finalColor = vec3(0.0); 
+
+  uv.x = exp(length(uv));
+
+  uv = fract(1 / uv); 
+
+  finalColor.xz += uv; 
+
+  FragColor = vec4(finalColor, 1.0f);
+}
+
+-- -- -- -- -- -- 
 
 int WIDTH = 600;
 int HEIGHT = 600;
@@ -146,3 +183,4 @@ int main()
     glfwTerminate();
     return 0;
 }; 
+*/
