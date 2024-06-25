@@ -11,4 +11,5 @@
 |  Fractal Square.exe                         | `GLFW`   |  18:20 - [21/6/2024] |                                                                                       |                                                                              |
 |   Sun set.exe                               | `GLFW`   |  21:06 - [22/6/2024] |                                                                                       |                                                                              |
 |   Circle Sunset.exe                         | `GLFW`   |  22:04 - [23/6/2024] |                                                                                       |                                                                              |
+|   Neon Light.exe                         | `GLFW`   |  22:04 - [23/6/2024] |                                                                                       |                                                                              |
 
