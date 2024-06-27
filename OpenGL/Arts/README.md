@@ -12,5 +12,6 @@
 |   Sun set.exe                               | `GLFW`   |  21:06 - [22/6/2024] |                                                                                       |                                                                              |
 |   Circle Sunset.exe                         | `GLFW`   |  22:04 - [23/6/2024] |                                                                                       |                                                                              |
 |   Neon Light.exe                         | `GLFW`      |  12:34 - [24/6/2024] |                                                                                       |                                                                              |
-|   Cross Light.exe                         | `GLFW`     |  15:36 - [24/6/2024] |                                                                                       |                                                                              |
-
+|   Cross Light.exe                         | `GLFW`     |  15:36 - [25/6/2024] |                                                                                       |                                                                              |
+|   Neon  Light.exe                         | `GLFW`     |  15:36 - [26/6/2024] |                                                                                       |                                                                              |
+|   Mixex color.exe                         | `GLFW`     |  1  :36 - [27/6/2024] |                                                                                       |                                                                              |
