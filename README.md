@@ -1,6 +1,6 @@
 <h1 align="center"> ⚙ Project Holder </h1>
 
-<h2 align="center"> 1/6/2024 - 30/6/2024 </h2>
+<h2 align="center"> 5/6/2024 - 30/6/2024 </h2>
 <h2 align="center">  ENDED </h2>
 
 <h1 align="left"> 📂 Structure </h1>
